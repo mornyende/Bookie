@@ -1,2 +1,6 @@
 togen
 config.py
+*.db
+testing*.py
+*test*
+*.png
