@@ -1,0 +1,1 @@
+god = [YOUR_ADMIN_IDS]
